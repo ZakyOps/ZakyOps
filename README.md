@@ -6,8 +6,18 @@ I'm **Zakaria SAWADOGO**,
 **Software Engineer | Java & Python Developer | DevOps Engineer | AI Agent Automation Engineer | Data Cloud | Odoo Developer**  
 📍 Based in **Côte d’Ivoire**
 
+
+💻 Software Engineer | Odoo & Java Developer  
+⚙️ DevOps Enthusiast | Future Data & AI Engineer  
+🌍 Building scalable and impactful solutions for Africa
+
 I design and build **robust backend systems**, **cloud-native infrastructures**, and **business automation platforms**.  
 My expertise spans **Java & Python development**, **DevOps**, **Data Engineering**, and **AI-driven automation**, with a strong ambition to create **real-world impact**, especially in **Africa**.
+
+I believe in:
+- clean architecture
+- automation
+- real-world impact over hype
 
 ---
 
@@ -38,7 +48,18 @@ My expertise spans **Java & Python development**, **DevOps**, **Data Engineering
   <a href="https://www.linkedin.com/in/zakaria-sawadogo-2678812b5/">
     <img src="https://img.shields.io/badge/LinkedIn-500%2B_Connections-%230A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  ![Visitor Count](https://visitcount.itsvg.in/api?id=SawadogoZakaria&color=6)
 </div>
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SawadogoZakaria&show_icons=true&theme=gotham" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SawadogoZakaria&theme=gotham" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SawadogoZakaria&layout=compact&theme=gotham" />
+</p>
+
 
 ---
 
