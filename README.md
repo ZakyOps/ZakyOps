@@ -48,18 +48,7 @@ I believe in:
   <a href="https://www.linkedin.com/in/zakaria-sawadogo-2678812b5/">
     <img src="https://img.shields.io/badge/LinkedIn-500%2B_Connections-%230A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  ![Visitor Count](https://visitcount.itsvg.in/api?id=SawadogoZakaria&color=6)
 </div>
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SawadogoZakaria&show_icons=true&theme=gotham" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SawadogoZakaria&theme=gotham" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SawadogoZakaria&layout=compact&theme=gotham" />
-</p>
-
 
 ---
 
